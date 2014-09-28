@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="symptom_color_selected">#003366</color>
+    <color name="reaction_color_selected">#003366</color>
+    <color name="static_text_color">#003366</color>
+    <color name="journal_entry_listitem_text_color">#003366</color>
+    <color name="note_text_disabled">#333333</color>
+    <color name="blue">#0000FF</color>
+    <color name="navy">#6699FF</color>
+    <color name="sky">#0099CC</color>
+    <color name="gray">#808080</color>
+    <color name="lightgray">#e7e7e7</color>
+      <color name="lightgray02">#bfbfbf</color>
+    <color name="dark">#000015</color>
+    <color name="lightgreen">#336666</color>
+    <color name="orrange">#e33d1b</color>
+    <color name="darkorrange">#cc2303</color>
+    <color name="calendar_scroll">#00B945</color>
+    <color name="calendar_date_display">#0776A0</color>
+    <color name="calendar_grid">#00B945</color>
+    
+    <item name="a" type="color">#0884d6</item>
+    <item name="b" type="color">#2477b9</item>
+    <item name="c" type="color">#3270ab</item>
+    <item name="d" type="color">#406a9c</item>
+    <item name="e" type="color">#5c5d80</item>
+    <item name="f" type="color">#785163</item>
+    <item name="g" type="color">#864a55</item>
+    <item name="h" type="color">#a23e38</item>
+    <item name="i" type="color">#be311c</item>
+    <item name="j" type="color">#5f1407</item>
+
+</resources>

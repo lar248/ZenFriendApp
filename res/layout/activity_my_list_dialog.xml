@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zenfriend1.MyListDialog"
+    tools:ignore="MergeRootFrame" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="closeDialog"
+        android:text="Complete"
+        android:layout_gravity="bottom|center" />
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_marginTop="80dp"
+        android:layout_height="410dp" >
+    </ListView>
+
+    <ImageView
+        android:id="@+id/imageViewDialog"
+        android:layout_width="137dp"
+        android:layout_height="78dp"
+        android:src="@drawable/peace" />
+
+    <TextView
+        android:id="@+id/textViewDirections"
+        android:layout_width="wrap_content"
+        android:layout_height="78dp"
+        android:layout_marginLeft="140dp"
+        android:text="Just remember to relax because everything will be fine. Take a look at some of our ideas below and take a load off!"
+        android:textSize="15sp" />
+
+</FrameLayout>
